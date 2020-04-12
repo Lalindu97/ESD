@@ -6,9 +6,14 @@ kheer
 pasta
 chiken fry
 
+beans
+pizza
 
 
 Thank You!
+
+
+Done my changes!!
 
 
 Final Copy!!!
